@@ -18,7 +18,8 @@ despues podemos buscar los quickstart(tutoriales para empezar) oficiales.
 [quickstart de github](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 _lo mas resaltante_
-e tiene partes reslatantes [git all](https://www.w3schools.com/git/git_commit.asp?remote=github)
+
+tiene partes reslatantes [git all](https://www.w3schools.com/git/git_commit.asp?remote=github)
 
 _Solo utilizaremos los siguientes comandos_
 
@@ -34,10 +35,12 @@ git push origin main
 ```
 ## git api
 _que es_
+
 debemos saber que es un api.
 
 _Github API_
-busca informacion disponible de Github:
+
+busca informacion disponible de Github, ventajas :
 
 -Conocer con ejemplos como se utiliza [Constructing Search Queries and Search Users](https://fusebit.io/blog/github-search-api/?utm_source=www.google.com&utm_medium=referral&utm_campaign=none)
 
@@ -45,16 +48,16 @@ busca informacion disponible de Github:
 
 -Con Github Api puedes crear aplicaciones o scripts de automatizacion.
 
-[__Video_de_pyladies el alto__]()
+[__Video_de_pyladies el alto__](https://youtu.be/w2E_kJ16nqw)
 
 _vamos a aprender_
 - herramienta CURL.
 - realizar peticiones(GET).
 - autenticacion
 - el formato de la peticion y el formato de la respuesta.
-_lo mas resaltante_
-- Fijar un objetivo ,realizar proyectos.
-- Conseguir las realises de un repositorio.
+
+_lo mas resaltante_ cd scripts (los scripts del video).
+
 # Proyecto 
 - Video
 - Documentacion & Codigo [pychecker](https://github.com/libialany/pycheck/tree/dev0.1).
