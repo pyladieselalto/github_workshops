@@ -19,6 +19,19 @@ despues podemos buscar los quickstart(tutoriales para empezar) oficiales.
 
 _lo mas resaltante_
 e tiene partes reslatantes [git all](https://www.w3schools.com/git/git_commit.asp?remote=github)
+
+_Solo utilizaremos los siguientes comandos_
+
+```
+git clone "https://github.com/pyladieselalto/.git
+cd creando_un_repo
+echo 'git clone "https://github.com/pyladieselalto/creando_un_repo.git"'>> README.md
+git status 
+git add .
+git commit -m "subiendo nuestros cambios"
+git branch 
+git push origin main
+```
 ## git api
 _que es_
 debemos saber que es un api.
