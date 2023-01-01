@@ -2,19 +2,24 @@
 ## Partes 
 - Videos Base en nuestro Canal (pyladieselalto)
 - Reunion presencial para reforzar nuestro aprendizaje (roothouse)
-# github 
+
+# que debemos conocer
+## github 
 _que es_
 es una plataforma de hosteo de codigo para el control del versionamiento. [documentacion](https://docs.github.com/en/get-started/quickstart/hello-world)
 _como aprender_
-Para empezar a aprender lo recomendable conoccer los conceptos:
-- repositorio
-- pull request
-- branch
-despues podemos buscar los quickstart oficiales.
+Para empezar a aprender lo recomendable conocer los conceptos:
+
+**[Github-introduccion](https://www.youtube.com/watch?v=T_Kza2xcBYg)**
+
+**[Github-crash-courses](https://www.youtube.com/watch?v=HiXLkL42tMU)**
+
+despues podemos buscar los quickstart(tutoriales para empezar) oficiales.
 [quickstart de github](https://docs.github.com/en/get-started/quickstart/hello-world)
+
 _lo mas resaltante_
 e tiene partes reslatantes [git all](https://www.w3schools.com/git/git_commit.asp?remote=github)
-# git api
+## git api
 _que es_
 debemos saber que es un api.
 
