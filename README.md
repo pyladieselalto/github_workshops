@@ -36,7 +36,16 @@ git push origin main
 _que es_
 debemos saber que es un api.
 
-api de github nos permite recuperar datos de github y automatizar tus flujos de trabajo mediante scripts,  crear integraciones.
+_Github API_
+busca informacion disponible de Github:
+
+-Conocer con ejemplos como se utiliza [Constructing Search Queries and Search Users](https://fusebit.io/blog/github-search-api/?utm_source=www.google.com&utm_medium=referral&utm_campaign=none)
+
+-Primer vistazo de github api `Es la raiz de una peticion[https://api.github.com/](https://api.github.com/).`
+
+-Con Github Api puedes crear aplicaciones o scripts de automatizacion.
+
+[__Video_de_pyladies el alto__]()
 
 _vamos a aprender_
 - herramienta CURL.
