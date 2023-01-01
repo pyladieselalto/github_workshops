@@ -30,5 +30,6 @@ _lo mas resaltante_
 - Conseguir las realises de un repositorio.
 # Proyecto 
 - Video
-- Video de Mejora de Proyecto
-- Taller con Proyecto en el Hacklab
+- Documentacion & Codigo [pychecker](https://github.com/libialany/pycheck/tree/dev0.1).
+- Video de Mejora de Proyecto.
+- Taller con Proyecto en el Hacklab.
