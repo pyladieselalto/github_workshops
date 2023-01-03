@@ -1,9 +1,11 @@
 # Workshop
 ![image](https://media.giphy.com/media/fwidxMJn0Doi09QJfP/giphy.gif)
 # Requisitos
-1. Tener instalado git
-2. Tener una cuenta en github
-**No si llegas temprano al roothouse te yudaremos con el requisito 2**
+1. Tener instalado git(antes de venir al workshop).
+2. Tener una cuenta en github.
+
+**Nota- si llegas temprano al roothouse te yudaremos con el requisito 2**
+
 # que vamos a conocer
 ## github 
 _que es_
