@@ -1,9 +1,10 @@
 # Workshop
-## Partes 
-- Videos Base en nuestro Canal (pyladieselalto)
-- Reunion presencial para reforzar nuestro aprendizaje (roothouse)
-
-# que debemos conocer
+![image](https://media.giphy.com/media/fwidxMJn0Doi09QJfP/giphy.gif)
+# Requisitos
+1. Tener instalado git
+2. Tener una cuenta en github
+**No si llegas temprano al roothouse te yudaremos con el requisito 2**
+# que vamos a conocer
 ## github 
 _que es_
 es una plataforma de hosteo de codigo para el control del versionamiento. [documentacion](https://docs.github.com/en/get-started/quickstart/hello-world)
@@ -58,8 +59,9 @@ _vamos a aprender_
 
 _lo mas resaltante_ cd scripts (los scripts del video).
 
+
+# que vamos a realizar
 # Proyecto 
-- Video
-- Documentacion & Codigo [pychecker](https://github.com/libialany/pycheck/tree/dev0.1).
-- Video de Mejora de Proyecto.
-- Taller con Proyecto en el Hacklab.
+![image](https://media.giphy.com/media/YnkxsSTMG4wByV0Wtd/giphy.gif)
+- Terminado el Proyecto se subira un Video se subira un video al canal de pyladies el alto.
+- Conoce los proyectos del Hacklab.
